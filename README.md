@@ -1,6 +1,3 @@
-
-Lucas-GabrielDev/Lucas-GabrielDev
-
 <h1 align="center">Lucas Gabriel</h1>
 <p align="center">Desenvolvedor Front-end</p>
 <div align="center">
