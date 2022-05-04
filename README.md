@@ -2,8 +2,8 @@
 <p align="center">Desenvolvedor Front-end</p>
 <div align="center">
   <a href="https://github.com/Lucas-GabrielDev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-GabrielDev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-GabrielDev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lucas-GabrielDev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-GabrielDev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div align="center"><br>
