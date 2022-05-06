@@ -1,5 +1,5 @@
 <h1 align="center">Lucas Gabriel</h1>
-<p align="center">Desenvolvedor Front-end</p>
+<p align="center">Engenheiro de Software</p>
 <div align="center">
   <a href="https://github.com/Lucas-GabrielDev">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Lucas-GabrielDev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark"/>
