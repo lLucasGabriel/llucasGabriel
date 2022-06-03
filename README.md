@@ -12,9 +12,12 @@
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Ts" height="30" width="30" src="https://github.com/Lucas-GabrielDev/Lucas-GabrielDev/blob/main/img/typescript.png">
   <img align="center" alt="Lucas-node" height="30" width="30" src="https://github.com/Lucas-GabrielDev/Lucas-GabrielDev/blob/main/img/node.png">
-  <img align="center" alt="Lucas-React" height="30" width="32.5" src="https://github.com/Lucas-GabrielDev/Lucas-GabrielDev/blob/main/img/react.png">
+  <img align="center" alt="Lucas-Vue" height="30" width="30" src="https://github.com/Lucas-GabrielDev/Lucas-GabrielDev/blob/main/img/vue.png">
+  <img align="center" alt="Lucas-React" height="30" width="33" src="https://github.com/Lucas-GabrielDev/Lucas-GabrielDev/blob/main/img/react.png">
+  <img align="center" alt="Lucas-ReactN" height="30" width="32.5" src="https://github.com/Lucas-GabrielDev/Lucas-GabrielDev/blob/main/img/reactpurple.png">
   <img align="center" alt="Lucas-figma" height="30" width="20" src="https://github.com/Lucas-GabrielDev/Lucas-GabrielDev/blob/main/img/figma.png">
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Lucas-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <hr></hr>
 </div>
+
