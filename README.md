@@ -1,8 +1,8 @@
-<h1>Lucas Gabriel</h1>
-<p>Software Engineer</p>
+<h1>Software Engineer</h1>
+<p></p>
 <div>
   <a href="https://github.com/Lucas-GabrielDev">
-  <img height="150em" src="https://user-images.githubusercontent.com/92965549/180618943-6d164a15-42c7-4f0f-8612-1358993442f9.png"/>
+  <a href="https://github.com/Lucas-GabrielDev/NETADMIN-Central-de-Atendimento" ><img height="150em" src="https://user-images.githubusercontent.com/92965549/180618943-6d164a15-42c7-4f0f-8612-1358993442f9.png"/></a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-GabrielDev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
@@ -17,5 +17,5 @@
 
  <div><br>
   <h1>Contacts</h1>
-  <a href="https://www.linkedin.com/in/llucas-gabriel/"> <img align="center" alt="Lucas-linkedin" src="https://user-images.githubusercontent.com/92965549/180613610-87001db9-f13f-4115-9e74-6dda4192ef9f.svg"></a>
+  <a href="https://www.linkedin.com/in/llucas-gabriel/"><img align="center" alt="Lucas-linkedin" src="https://user-images.githubusercontent.com/92965549/180613610-87001db9-f13f-4115-9e74-6dda4192ef9f.svg"></a>
 </div>
