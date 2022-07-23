@@ -2,8 +2,8 @@
 <p>Software Engineer</p>
 <div>
   <a href="https://github.com/Lucas-GabrielDev">
-  <img height="160em" src="https://user-images.githubusercontent.com/92965549/180618943-6d164a15-42c7-4f0f-8612-1358993442f9.png"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-GabrielDev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://user-images.githubusercontent.com/92965549/180618943-6d164a15-42c7-4f0f-8612-1358993442f9.png"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-GabrielDev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div><br>
