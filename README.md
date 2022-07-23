@@ -13,7 +13,6 @@
   <img align="center" alt="Lucas-node" height="60" width="60" src="https://github.com/Lucas-GabrielDev/Lucas-GabrielDev/blob/main/img/node.png">
   <img align="center" alt="Lucas-mysql" height="65" width="75" src="https://user-images.githubusercontent.com/92965549/180613504-38e762e9-0277-462a-a967-f7976519a8d4.svg">
   <img align="center" alt="Lucas-vscode" height="65" width="75" src="https://user-images.githubusercontent.com/92965549/180613509-1e20ccde-a6c0-467f-8b97-0a7f41b9eb44.svg">
-  <hr></hr>
 </div>
 
  <div><br>
