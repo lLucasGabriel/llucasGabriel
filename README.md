@@ -2,8 +2,8 @@
 <p></p>
 <div>
   <a href="https://github.com/llucasGabriel">
-  <a href="https://github.com/llucasGabriel/NETADMIN-Central-de-Atendimento" ><img height="150em" src="https://user-images.githubusercontent.com/92965549/180618943-6d164a15-42c7-4f0f-8612-1358993442f9.png"/></a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucasGabriel&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/llucasGabriel/NETADMIN-Central-de-Atendimento"><img height="150px" src="https://user-images.githubusercontent.com/92965549/180618943-6d164a15-42c7-4f0f-8612-1358993442f9.png"/></a>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucasGabriel&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div><br>
