@@ -4,6 +4,10 @@
   <a href="https://github.com/llucasGabriel/NETADMIN-Central-de-Atendimento"><img width="400px" src="https://user-images.githubusercontent.com/92965549/187087347-fe065a85-06c3-4585-800b-0a7a160438e5.png"/></a>
   <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucasGabriel&layout=compact&hide_border=true&langs_count=7&theme=dracula"/>
 </div>
+<div>
+<img width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=llucasGabriel&theme=cobalt&hide_border=true">
+<img width="140px" src="https://user-images.githubusercontent.com/92965549/187095377-691154db-a16c-4273-bb28-49de3ef6d694.png"/>
+</div>
   <div><br>
   <h1>Hard Skills</h1>
   <img align="center" alt="Lucas-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
