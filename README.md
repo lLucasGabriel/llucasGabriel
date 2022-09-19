@@ -12,7 +12,8 @@
   <h1>Hard Skills</h1>
   <img align="center" alt="Lucas-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Ts" height="60" width="60" src="https://github.com/Lucas-GabrielDev/Lucas-GabrielDev/blob/main/img/typescript.png">
-  <img align="center" alt="Lucas-react" height="60" width="66" src="https://user-images.githubusercontent.com/92965549/187088483-7b88d2e4-095c-40ad-bafa-95530faf28db.png">
+  <img align="center" alt="Lucas-react" height="60" width="68" src="https://user-images.githubusercontent.com/92965549/187088483-7b88d2e4-095c-40ad-bafa-95530faf28db.png">
+    <img align="center" alt="Lucas-sc" height="60" width="72" src="https://user-images.githubusercontent.com/92965549/191129314-3f9b8671-b63a-4b71-b04a-c7f6536a1b04.svg">
   <img align="center" alt="Lucas-sass" height="60" width="60" src="https://user-images.githubusercontent.com/92965549/187088486-99c3695c-95e4-4990-8425-dc0983122a2a.png">
   <img align="center" alt="Lucas-node" height="60" width="60" src="https://github.com/Lucas-GabrielDev/Lucas-GabrielDev/blob/main/img/node.png">
   <img align="center" alt="Lucas-mysql" height="65" width="75" src="https://user-images.githubusercontent.com/92965549/180613504-38e762e9-0277-462a-a967-f7976519a8d4.svg">
