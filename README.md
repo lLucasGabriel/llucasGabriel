@@ -1,7 +1,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/92965549/187088225-1053b70d-0eeb-458a-ae8d-9a56b6dd4108.png">
 <h1></h1>
 <div>
-  <a href="https://github.com/llucasGabriel/Camara-Tickets"><img width="400px" src="https://user-images.githubusercontent.com/92965549/187087347-fe065a85-06c3-4585-800b-0a7a160438e5.png"/></a>
+  <a href="https://github.com/llucasGabriel/Camara-Tickets"><img width="400px" src="https://user-images.githubusercontent.com/92965549/197417612-137c8d29-058d-4628-98bb-f6fd46dde814.png"/></a>
   <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucasGabriel&layout=compact&hide_border=true&langs_count=7&theme=dracula"/>
 </div>
 <div>
