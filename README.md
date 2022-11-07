@@ -2,8 +2,10 @@
 
 ## Main Projects
 
+<a href="https://github.com/lLucasGabriel/CamaraTickets">
 <img width="410px" src="https://github-readme-stats.vercel.app/api/pin/?username=lLucasGabriel&repo=CamaraTickets&cache_seconds=86400&theme=dark">
-
+</a>
+  
 <div>
 <img width="410px" src="https://github-readme-streak-stats.herokuapp.com?user=lLucasGabriel&theme=dark-smoky&locale=pt-br">
 <img width="140px" src="https://user-images.githubusercontent.com/92965549/200201780-a2b3da6d-470e-4bd1-9035-2df6daaf0556.png"/>
