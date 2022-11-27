@@ -2,24 +2,34 @@
 
 ## Main Projects
 
+<div>
 <a href="https://github.com/lLucasGabriel/CamaraTickets">
 <img width="410px" src="https://github-readme-stats.vercel.app/api/pin/?username=lLucasGabriel&repo=CamaraTickets&cache_seconds=86400&theme=dark">
 </a>
-  
-<div>
-<img width="410px" src="https://github-readme-streak-stats.herokuapp.com?user=lLucasGabriel&theme=dark-smoky&locale=pt-br">
 <img width="140px" src="https://user-images.githubusercontent.com/92965549/200201780-a2b3da6d-470e-4bd1-9035-2df6daaf0556.png"/>
 </div>
+
+ <!--<img width="410px" src="https://github-readme-streak-stats.herokuapp.com?user=lLucasGabriel&theme=dark-smoky&locale=pt-br">-->
 
 ## Hard Skills
 
 <div>
+  <!--
   <img align="center" alt="javascipt" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="typescript" height="60" width="60" src="https://github.com/Lucas-GabrielDev/Lucas-GabrielDev/blob/main/img/typescript.png">
   <img align="center" alt="react" height="60" width="68" src="https://user-images.githubusercontent.com/92965549/187088483-7b88d2e4-095c-40ad-bafa-95530faf28db.png">
   <img align="center" alt="node" height="60" width="60" src="https://github.com/Lucas-GabrielDev/Lucas-GabrielDev/blob/main/img/node.png">
+  <img align="center" alt="mongodb" height="60" width="60" src="https://skillicons.dev/icons?i=mongodb">
   <img align="center" alt="mysql" height="65" width="75" src="https://user-images.githubusercontent.com/92965549/180613504-38e762e9-0277-462a-a967-f7976519a8d4.svg">
   <img align="center" alt="vscode" height="65" width="75" src="https://user-images.githubusercontent.com/92965549/180613509-1e20ccde-a6c0-467f-8b97-0a7f41b9eb44.svg">
+  -->
+  <img align="center" alt="mongodb" height="60" width="60" src="https://skillicons.dev/icons?i=javascript"/>
+  <img align="center" alt="mongodb" height="60" width="60" src="https://skillicons.dev/icons?i=typescript"/>
+  <img align="center" alt="mongodb" height="60" width="60" src="https://skillicons.dev/icons?i=react"/>
+  <img align="center" alt="mongodb" height="60" width="60" src="https://skillicons.dev/icons?i=nodejs"/>
+  <img align="center" alt="mongodb" height="60" width="60" src="https://skillicons.dev/icons?i=mongodb"/>
+  <img align="center" alt="mongodb" height="60" width="60" src="https://skillicons.dev/icons?i=mysql">
+  <img align="center" alt="mongodb" height="60" width="60" src="https://skillicons.dev/icons?i=vscode">
 </div>
 
 ## Contacts
