@@ -30,10 +30,10 @@
   <img align="center" alt="mongodb" height="60" width="60" src="https://skillicons.dev/icons?i=javascript"/>
   <img align="center" alt="mongodb" height="60" width="60" src="https://skillicons.dev/icons?i=typescript"/>
   <img align="center" alt="mongodb" height="60" width="60" src="https://skillicons.dev/icons?i=react"/>
-  <img align="center" alt="mongodb" height="60" width="60" src="https://skillicons.dev/icons?i=nodejs"/>
-  <img align="center" alt="mongodb" height="60" width="60" src="https://skillicons.dev/icons?i=mongodb"/>
-  <img align="center" alt="mongodb" height="60" width="60" src="https://skillicons.dev/icons?i=mysql">
-  <img align="center" alt="mongodb" height="60" width="60" src="https://skillicons.dev/icons?i=vscode">
+  <!--<img align="center" alt="mongodb" height="60" width="60" src="https://skillicons.dev/icons?i=nodejs"/>-->
+  <!--<img align="center" alt="mongodb" height="60" width="60" src="https://skillicons.dev/icons?i=mongodb"/>-->
+  <!--<img align="center" alt="mongodb" height="60" width="60" src="https://skillicons.dev/icons?i=mysql">-->
+  <!--<img align="center" alt="mongodb" height="60" width="60" src="https://skillicons.dev/icons?i=vscode">-->
 </div>
 
 ## Contacts
