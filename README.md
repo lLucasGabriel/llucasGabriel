@@ -39,6 +39,6 @@
 <!--## Contacts-->
 
 <!--<div>
-  <a href="https://www.linkedin.com/in/llucas-gabriel/"><img align="center" alt="Lucas-linkedin" src="https://user-images.githubusercontent.com/92965549/180613610-87001db9-f13f-4115-9e74-6dda4192ef9f.svg"></a>
+  <a href=" :) "><img align="center" alt="Lucas-linkedin" src="https://user-images.githubusercontent.com/92965549/180613610-87001db9-f13f-4115-9e74-6dda4192ef9f.svg"></a>
   <a href="mailto:llucas.gabriel@outlook.com"><img align="center" width="125px" alt="Lucas-linkedin" src="https://user-images.githubusercontent.com/92965549/187095871-2c233b1f-8486-4987-9f50-ddbd1e918517.png"></a>
 </div>-->
